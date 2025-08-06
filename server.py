@@ -325,7 +325,6 @@ def combined_updates():
             last_60s = now
 
         time.sleep(1) 
-if __name__ == "__main__":
-    threading.Thread(target=combined_updates, daemon=True).start()
+
+threading.Thread(target=combined_updates, daemon=True).start()
    
-    socketio.run(app, debug=True,port=8080)
