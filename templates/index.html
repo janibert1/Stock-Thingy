@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Stock Portfolio</title>
+</head>
+<body>
+    <h1>My Portfolio</h1>
+    <h3>Total Value: ${{ total_value }}</h3>
+
+    <img src="data:image/png;base64,{{ graph_url }}" alt="Portfolio Graph">
+
+    <table border="1" cellpadding="5" cellspacing="0">
+        <tr><th>Ticker</th><th>Quantity</th><th>Price</th><th>Value</th></tr>
+        {% for stock in portfolio %}
+        <tr>
+            <td>{{ stock.ticker }}</td>
+            <td>{{ stock.quantity }}</td>
+            <td>${{ stock.price }}</td>
+            <td>${{ stock.value }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <h2>AI Trade Assistant</h2>
+    <form method="post">
+        <input type="text" name="ticker" placeholder="Enter ticker" required>
+        <button type="submit">Get AI Advice</button>
+    </form>
+
+    {% if advice %}
+        <p>Gemini's Advice for {{ ticker }}: <b>{{ advice.upper() }}</b></p>
+        <form method="post">
+            <input type="hidden" name="ticker" value="{{ ticker }}">
+            <input type="hidden" name="action" value="execute">
+            <button type="submit">Follow Advice</button>
+        </form>
+    {% endif %}
+</body>
+</html>

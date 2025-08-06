@@ -1,0 +1,25 @@
+Company Also Demonstrates Full Spectrum of AI Storage Solutions for PCs, Gaming, Edge, Robotics, and Automotive
+
+TAIPEIandMILPITAS, Calif.,Aug. 5, 2025/PRNewswire/ -- Silicon Motion Technology Corporation (NasdaqGS: SIMO) ("Silicon Motion"), a global leader in designing and marketing NAND flash controllers for solid-state storage devices, today announced it will showcase its MonTitan™ SM8366 PCIe Gen5 SSD controller solutions, demonstrated using theVAST DataCeres V2 AI Storage platform and Aetina NVIDIA MGX™ server, atFMS (the Future of Memory and Storage)2025 inSanta Clara, California, taking place August 5–7 in at booth #315. MonTitan™, together with other advanced storage solutions optimized for AI applications, underscores Silicon Motion's commitment to delivering next-generation scalability and performance for data-intensive workloads
+
+Silicon Motion is collaborating with Unigen to demonstrate its Cheetah High Capacity 128TB QLC E1.L SSD and Cheetah 3.2TB SLC U.2 SSD powered by Silicon Motion's SM8366 to showcase an efficient and cost-effective storage solution by using VAST Data Ceres V2 Dbox platform. By leveraging NVIDIA BlueField-3 DPUs to accelerate networking and compute combined with its compact 1U form factor, CERES V2 delivers exceptional density for mission-critical AI deployments that demand scalability and throughput.
+
+"We are pleased to work with Silicon Motion's MonTitan™ based SSDs that support the Ceres V2 architecture to meet the performance and density demands of AI and data-intensive workloads," saidAvery Pham, VP of Strategic Operations, at VAST Data. "VAST is a Software Data platform utilizing bleeding edge hardware to enable software solutions. This demo illustrates how integrating powerful SSD technology with a disaggregated storage architecture like Ceres2 can help enterprises scale AI infrastructure more efficiently and intelligently."
+
+Silicon Motion has also teamed up with Innodisk 5TS-P on an 8TB E1.S MonTitan™ based SSD by using Aetina's AEX-2UAI, high performance, short-depth edge server built on NVIDIA's MGX™ module design. This edge server brings powerful AI computing capabilities to edge environments and is particularly suitable for use cases demanding high performance in space-constrained settings.
+
+"The integration of MonTitan™ based 5TS-P SSDs into our AEX-2UAI edge server reflects a shared vision to support powerful AI computing in compact, real-world deployments," said CC Wu, GM of Embedded Flash Division at Innodisk. "By combining high-density flash storage with MGX-based computing, we're expediting edge AI systems to perform faster and smarter in space optimized environments."
+
+"Our MonTitan™ platform is purpose-built to address the extreme demands of AI server storage," saidAlex Chou, Senior Vice President of Enterprise Storage and Display Interface Solutions Business at Silicon Motion. "Our collaborations with customers and module maker partners highlight our ability to deliver leading AI SSD solutions.  We are thrilled to be part of the Core to Edge AI Ecosystems with VAST Data, Aetina and our other partners to deliver storage solutions that meet the ultra-high capacity and performance requirements of the next generation of AI applications for data centers and enterprise storage."
+
+In addition to the AI server storage demo, Silicon Motion will highlight its broad portfolio of storage solutions designed for a wide range of AI-driven applications—from all-in-one Edge AI and AI PCs to gaming consoles, smartphones, robotics, and automotive systems. This includes PCIe Gen5 SSD, USB4, SD Express, UFS, and eMMC controllers, along with Ferri embedded storage, underscoring the company's expertise in delivering scalable, high-efficiency storage across diverse AI platforms.
+
+Silicon Motion representatives will also be presenting at FMS keynotes and forums. For further information, please visit:https://www.siliconmotion.com/events/2025FMS/
+
+About Silicon Motion:
+
+We are the global leader in supplying NAND flash controllers for solid state storage devices. We supply more SSD controllers than any other company in the world for servers, PCs and other client devices and are the leading merchant supplier of eMMC and UFS embedded storage controllers used in smartphones, IoT devices and other applications. We also supply customized high-performance hyperscale data center and specialized industrial and automotive SSD solutions. Our customers include most of the NAND flash vendors, storage device module makers and leading OEMs. For further information on Silicon Motion, visit us atwww.siliconmotion.com.
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/silicon-motion-showcases-montitan-sm8366-in-core-to-edge-ai-server-applications-at-fms-2025-302521798.html
+
+SOURCE Silicon Motion Technology Corporation

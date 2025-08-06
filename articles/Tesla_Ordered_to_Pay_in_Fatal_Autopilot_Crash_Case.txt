@@ -1,0 +1,17 @@
+Tesla (TSLA,Financials)has been found partly liablefor a fatal 2019 crash in Key Largo, Florida, involving its Autopilot driver-assistance system the first major Autopilot case to reach trial. A Miami jury ruled the automaker must pay about $242.5 million in damages to the family of 22-year-old Naibel Benavides, who was killed, and survivor Dillon Angulo.
+
+Warning! GuruFocus has detected 7 Warning Signs with WBD.
+
+The damages include roughly $42.5 million in compensatory payments and $200 million in punitive damages assessed solely against Tesla. The jury found the company 33% responsible for the crash, in which a Tesla Model S accelerated through an intersection and struck the victims while Autopilot was engaged.
+
+Most lawsuits over Tesla's driver-assist technology have been settled quietly; this case went public, and the jury sided with the plaintiffs' argument that Tesla misled consumers by marketing Autopilot as safer than it was while allowing it to operate on roads it wasn't designed for. Tesla countered that the driver, George McGee, was distracted while retrieving his dropped phone and had overridden Autopilot by pressing the accelerator.
+
+The verdict matters now because it lands as Tesla pushes toward a launch of fully autonomous robotaxis, which are already under scrutiny for safety concerns. Regulators may view the ruling as a signal to tighten oversight of advanced driver-assistance systems. Investor reaction has been swift Tesla shares fell 1.8% Friday, deepening a 25% decline year to date, the steepest drop among megacap tech companies.
+
+It also comes as other countries, including Australia, pursue class-action suits over similar alleged flaws. The outcome could influence global regulatory frameworks for autonomous driving, forcing companies to reconcile innovation with safety before scaling deployments.
+
+Today's verdict is wrong, Tesla said in a statement, adding it plans to appeal and reiterating its position that the crash was caused by driver negligence.
+
+The National Highway Traffic Safety Administration continues multiple investigations into Autopilot's performance and Tesla's claims about its capabilities. The ruling adds pressure on both Tesla and the broader autonomous vehicle industry to prove that technology billed as safer than human driving can deliver on its promises without compromising public safety.
+
+This article first appeared onGuruFocus.

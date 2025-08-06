@@ -1,0 +1,43 @@
+Generative artificial intelligence (AI) is creating a new wave of winners in the tech sector, and analysts are racing to identify the next big beneficiaries. While the spotlight usually shines on giants like Nvidia (NVDA) and Microsoft (MSFT), Wall Street is also falling in love with some quieter players powering the AI revolution behind the scenes.
+
+One stock earning that attention is MongoDB (MDB). Analysts at BMO Capital Markets just launched coverage with an “Outperform” rating and a $280 price target, highlighting MongoDB’s growing role in generative AI workloads. The firm points to the company’s vector search technology and potential to capture new AI-driven database demand as key growth catalysts.
+
+More News from Barchart
+
+Supermicro’s Earnings Selloff Explained: Should You Buy SMCI Stock Now?
+
+Can SoundHound's Q2 Results Send the Stock Soaring on August 7?
+
+Palantir's Free Cash Flow Margins and Forecasts Rise - Where This Leaves PLTR Stock
+
+Our exclusive Barchart Brief newsletter is your FREE midday guide to what's moving stocks, sectors, and investor sentiment - delivered right when you need the info most. Subscribe today!
+
+For investors seeking a hidden AI gem with analyst backing, MongoDB’s expanding footprint in the database market positions it as a stock worth watching closely.
+
+About MongoDB Stock
+
+Headquartered in New York, MongoDB is a leading data platform company founded in 2007. The company is widely recognized for its innovative general-purpose database platform, which enables developers worldwide to build, transform, and modernize applications by leveraging the power of software and data.
+
+The company is actively positioning itself for the artificial intelligence era. Earlier this year, MongoDB acquired Voyage AI, a startup specializing in vector-based search models, and launched a public preview of its Model Context Protocol (MCP) server. Coupled with the release of the Voyage 3.5 retrieval models and enhanced vector database capabilities, these initiatives allow developers to use natural language to query data and create AI-powered applications more efficiently.
+
+MongoDB carries a market capitalization of $18.6 billion. Year-to-date, shares have climbed roughly 0.4%, still trading well below their late-2024 highs. The pullback reflects broader caution toward high-growth tech valuations. MDB trades at an enterprise value-sales ratio of 7.1x and a trailing price-earnings ratio of 55x, significantly above sector medians of 2.9x and 22.9x, highlighting a premium valuation even as analysts point to solid fundamentals and long-term AI-driven growth potential.
+
+MongoDB Beats Q1 Earnings Estimates
+
+On June 5, MongoDB reported its Q1 results for fiscal 2026, which topped estimates on both lines. The company posted $549 million in revenue, up 22% year over year and comfortably ahead of Wall Street’s $528 million estimate. The Atlas cloud service, which grew 26%, remained the primary growth driver.
+
+Profitability also improved. Non-GAAP net income was $86.3 million, or roughly $1.00 per share. Free cash flow jumped 74% year over year to $105.9 million, giving the company room to invest and return capital to shareholders.
+
+The balance sheet remains a standout. MongoDB ended the quarter with $2.5 billion in cash and investments, virtually no long-term debt, and a new $1.0 billion share buyback program. With strong liquidity and growing AI-focused initiatives, the company appears well-positioned to keep scaling while rewarding investors.
+
+Management also lifted its full-year revenue outlook by $10 million at the midpoint, even as some renewal timing could weigh on near-term results. For Q2, MongoDB expects $548 million to $553 million in revenue and $0.62 to $0.66 in non-GAAP EPS, roughly flat sequentially.
+
+Why BMO Is Bullish
+
+On July 31, BMO Capital Markets initiated coverage of MongoDB with an “Outperform” rating led by analyst Keith Bachman. Bachman said that as more AI workloads move into production, database market growth should be sustained or improved, and he expects MongoDB to emerge as one of the GenAI database winners.
+
+He highlighted the company’s focus on enhancing vector search capabilities, partly through M&A, as a key driver for capturing new workloads. Bachman forecasts low- to mid-20% revenue growth through fiscal 2026 and mid- to high-teens growth in fiscal 2027. He added that catalysts include earnings reports exceeding guidance, product launches or strategic acquisitions, and overall expansion of the database market.
+
+Wall Street sentiment broadly aligns with BMO’s view. Among 38 analysts tracked by Barchart, MongoDB holds a “Strong Buy” consensus rating, with a mean price target of $279.89, implying roughly 19% upside from current levels.
+
+On the date of publication, Nauman Khan did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published onBarchart.com

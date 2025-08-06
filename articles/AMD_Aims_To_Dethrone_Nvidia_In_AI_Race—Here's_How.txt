@@ -1,0 +1,45 @@
+Nvidia Corp's (NASDAQ:NVDA) AI chip empire is built on H100s, which cost up to $40,000. It is the go-to for tech titans likeMicrosoft Corp(NASDAQ:MSFT) andMeta Platforms Inc(NASDAQ:META). But with supply shortages and U.S. export bans choking sales to China, startups and sovereignAI dreamers in Indiaand theUAEare increasingly turning toAdvanced Micro Devices Inc(NASDAQ:AMD). AMD’s secret sauce lies in its cheaper alternative in the MI300 chips, and its open-source ROCm software.
+
+Track AMD’s stock trajectoryhere.
+
+Can AMD's open-source ROCm software topple Nvidia's iron grip and spark the next AI revolution?
+
+Read Also:AMD Stock Is Rising Ahead Of Earnings This Week: What’s Fueling The Momentum?
+
+AMD’s Budget Chips: More Pack For The Punch
+
+AMD's MI300X chip packs 192GB of memory—twice Nvidia's H100—perfect for building massive AI models. Priced at about $25,000 for the upcoming MI350X, it's a steal compared to Nvidia's wallet-busting chips.
+
+Indianstartups coding AIfor farmers or doctors, and UAE's bold Falcon AI project, can stretch their cash further. AMD's chips also save power, a win for data centers in steamy Dubai.
+
+While Nvidia's tangled in supply and trade-ban chaos, AMD's U.S.-focused hustle keeps it nimble, opening doors for scrappy innovators.
+
+AMD’s Open-Source ROCm: The Startup Spark
+
+AMD's ROCm software is the real magic, letting coders run AI anywhere, unlike Nvidia's clingy CUDA, which locks you in like a bad date. India's open-source coders and UAE's homegrown AI builders love this freedom.
+
+Microsoft is using ROCm with MI300X on Azure, raving about its low cost. Hugging Face runs numerous AI models on it as well. Nvidia's CUDA has more fans, and its chips link faster, but ROCm's open vibe is stealing hearts.
+
+AMD's affordable MI300X and ROCm's open-source spark could let startups and sovereigns challenge Nvidia's pricey empire. The gap with Nvidia is still massive, of course. But AMD doesn't need to be a clone—it just needs to be the alternative.
+
+And with export curbs hitting Nvidia's China business, AMD's more measured exposure could be an accidental advantage.
+
+The takeaway? AMD might not wear the AI crown—but it's found the secret sauce to get invited to the royal table.
+
+Read Next:
+
+Broadcom Supercharges AI Infrastructure With Next-Gen Chip
+
+Photo: Shutterstock
+
+Up Next: Transform your trading with Benzinga Edge's one-of-a-kind market trade ideas and tools.Click now to access unique insightsthat can set you ahead in today's competitive market.
+
+Get the latest stock analysis from Benzinga?
+
+ADVANCED MICRO DEVICES (AMD): Free Stock Analysis Report
+
+NVIDIA (NVDA): Free Stock Analysis Report
+
+This articleAMD Aims To Dethrone Nvidia In AI Race—Here's Howoriginally appeared onBenzinga.com
+
+© 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio History Test</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/moment"></script>
+</head>
+<body>
+  <h1>Portfolio History</h1>
+  <canvas id="valueChart" width="600" height="300"></canvas>
+
+  <!-- Range buttons -->
+  <div style="margin-top: 20px;">
+    <button onclick="setRange('1h')">1 Hour</button>
+    <button onclick="setRange('1d')">1 Day</button>
+    <button onclick="setRange('1w')">1 Week</button>
+  </div>
+
+  <script>
+    let fullHistory = []; // Fetched from /history
+    let chart;            // Chart.js instance
+
+    // Initialize the chart
+    const ctx = document.getElementById('valueChart').getContext('2d');
+    chart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: [],
+        datasets: [{
+          label: 'Portfolio Value',
+          data: [],
+          borderColor: 'rgba(75, 192, 192, 1)',
+          backgroundColor: 'rgba(75, 192, 192, 0.2)',
+          fill: true,
+          tension: 0.3,
+          pointRadius: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          x: { title: { display: true, text: 'Time' } },
+          y: { title: { display: true, text: 'Value' } }
+        }
+      }
+    });
+
+    // Fetch history data
+    fetch('/history')
+      .then(res => res.json())
+      .then(data => {
+        fullHistory = data.map(d => ({
+          time: moment(d.timestamp),
+          value: d.value
+        }));
+        setRange('1h'); // Default view
+      });
+
+    // Filter and update the chart based on selected range
+    function setRange(range) {
+      const now = moment();
+      let filtered = [];
+
+      if (range === '1h') {
+        filtered = fullHistory.filter(d => now.diff(d.time, 'hours') <= 1);
+      } else if (range === '1d') {
+        filtered = fullHistory.filter(d => now.diff(d.time, 'days') <= 1);
+      } else if (range === '1w') {
+        filtered = fullHistory.filter(d => now.diff(d.time, 'days') <= 7);
+      }
+
+      // Update chart
+      chart.data.labels = filtered.map(d => d.time.format('HH:mm'));
+      chart.data.datasets[0].data = filtered.map(d => d.value);
+      chart.update();
+    }
+  </script>
+</body>
+</html>

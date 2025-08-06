@@ -1,0 +1,67 @@
+Nebius Group N.V.NBIS will report its second-quarter 2025 results on Aug. 7, before market open.The Zacks Consensus Estimate for the bottom line in the to-be-reported quarter stands at a loss of 42 cents. The estimate has remained unchanged in the past 30 days. The consensus estimate for total revenues is pinned at $95.05 million.Based in Amsterdam, Nebius is positioning itself as a specialized AI infrastructure company. Its core operation is Nebius, which is an AI-powered cloud platform designed for intensive AI and ML workloads in both owned and colocation data center capacity. It resumed trading as a public company in October 2024.
+
+What Our Model Predicts for NBIS’ Q2
+
+Our proven model does not conclusively predict an earnings beat for NBIS this time around. The combination of a positive Earnings ESP and a Zacks Rank #1 (Strong Buy), 2 (Buy), or 3 (Hold) increases the chances of an earnings beat. But that is not the case here. You can uncover the best stocks to buy or sell before they are reported with our Earnings ESP Filter.
+
+NBIS has an Earnings ESP of 0.00% and a Zacks Rank #4 (Sell). You can seethe complete list of today’s Zacks #1 Rank stocks here.
+
+Factors to Focus on Ahead of NBIS’ Q2 Earnings
+
+Accelerating demand for its AI infrastructure services is likely to have driven the top-line performance in the to be reported quarter. On the last earnings call, NBIS had highlighted that annualized recurring revenues or ARR for April were $310, providing a strong start for the second quarter. Due to strong April ARR, Nebius was confident in achieving its full-year ARR guidance of $750 million to $1 billion for 2025.
+
+Nebius is focused on boosting its data center footprint and its GPU deployments as part of its strategy to ramp up installed capacity across the United States and Europe. Establishing facilities in the United States means lower latency while serving domestic clients and boosting the advantages of the AI-native cloud. It added three new regions, including a strategic data center in Israel, in the last reported quarter. Collaboration with Saturn Cloud and deeper NVIDIA (NVDA) integration bodes well. It announced the general availability of NVIDIA GB200 Grace Blackwell Superchip capacity for its customers in Europe in June 2025.
+
+In the first quarter, Nebius significantly upgraded its AI cloud infrastructure through improvements to its Slurm-based cluster. Nebius is making substantial investments in improving its object storage capabilities, and the upgraded storage system ensures that big data sets can be easily accessed and saved quickly during model training, directly lowering time-to-result for end users. Nebius expanded integrations with external AI platforms like Metaflow, D Stack and SkyPilot, enabling customers to migrate tools with nominal friction. These factors are likely to have contributed to gaining more clients in the to be reported.
+
+Nonetheless, the intense competition from behemoths remains a concern, along with profitability issues. Nebius is a relatively new entrant in the AI cloud infrastructure space, which boasts behemoths likeAmazonAMZN andMicrosoftMSFT, and other upcoming players likeCoreWeaveCRWV. Amazon Web Services and Microsoft’s Azure cloud platform together dominate more than half of the cloud services market.
+
+Nebius Group N.V. Price and EPS Surprise
+
+Nebius Group N.V. price-eps-surprise | Nebius Group N.V. Quote
+
+Despite its exceptional top-line growth, NBIS remains unprofitable, with management reaffirming that adjusted EBITDA will be negative for the full year 2025. Though it added that adjusted EBITDA will turn positive at “some point in the second half of 2025.”
+
+NBIS has also raised its 2025 capital expenditure forecast to approximately $2 billion from the previous estimate of $1.5 billion, primarily due to some planned fourth-quarter spending shifting into the early first quarter. Higher capex can be a concern if revenues do not keep up the required pace to sustain such high capital intensity.
+
+Moreover, NBIS also highlighted that it will be deconsolidating Toloka as its voting share dropped below 50% due to investments from Jeff Bezos and Mikail Parakhin. Since the transaction closed in May 2025, NBIS will update its financials and guidance, excluding Toloka in its second quarter earnings report.
+
+Analysts have significantly revised their earnings estimates downward for NBIS’ bottom line over the past 60 days.
+
+Image Source: Zacks Investment Research
+
+NBIS Stock Performance
+
+Nebius shares have risen 59.6% over the past six months, outperforming the  Zacks Computer & Technology sector and the Zacks Internet Software Services industry’s growth of 6.8% and 10.4%, respectively. The S&P 500 Composite has returned 2.5% over the same time frame.
+
+Price Performance
+
+Image Source: Zacks Investment Research
+
+The gain is better than its peers, like Microsoft (up 29.6%) and Amazon (down 10.4%). On the other hand, CoreWeave, which is another hypergrowth pure play AI infrastructure company, has registered gains of 165%.
+
+NBIS' Stretched Valuation
+
+NBIS stock is also not so cheap, as its Value Style Score of F suggests a stretched valuation at this moment.
+
+Image Source: Zacks Investment Research
+
+In terms of Price/Book, NBIS shares are trading at 4.04X, almost the same as the Internet Software Services industry’s ratio of 4.03, but it could mean more risk than opportunity.
+
+What to Do With NBIS Stock Before Q2?
+
+Intense competition, ongoing profitability issues, and high capex pressure weigh on short-term prospects. The recent Toloka deconsolidation adds uncertainty to future guidance. Given these risks and limited near-term upside, investors could benefit from offloading NBIS ahead of the second quarter results. Investors looking to invest should wait for a better entry point.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days.Click to get this free report
+
+Amazon.com, Inc. (AMZN) : Free Stock Analysis Report
+
+Microsoft Corporation (MSFT) : Free Stock Analysis Report
+
+Nebius Group N.V. (NBIS) : Free Stock Analysis Report
+
+CoreWeave Inc. (CRWV) : Free Stock Analysis Report
+
+This article originally published on Zacks Investment Research (zacks.com).
+
+Zacks Investment Research

@@ -1,0 +1,21 @@
+Microsoft Corporation (NASDAQ:MSFT) is one of theTrending AI Stocks on Wall Street.On August 4, Stifel analyst Brad Reback reiterated a Buy rating on the stock with a $650.00 price target.
+
+The rating affirmation follows positive earnings commentary and strong partner checks for Microsoft Fabric, the company’s unified, end-to-end, SaaS (Software as a Service) data analytics platform.
+
+According to Stifel, Fabric is the fastest-growing platform in the company’s history.
+
+“The product is already demonstrating strong momentum, as just two years post launch it has >25k customers and 55% Y/Y revenue growth, and represents the fastest-growing data platform in Microsoft’s history. Given this, we decided to dive deeper into Microsoft Fabric and its subset of capabilities (Data Factory, Synapse, PowerBI, OneLake, etc.), as we believe that the offering differentiates Microsoft’s data stack from other vendors.”
+
+Microsoft Headquarters
+
+The firm believes that even though Fabric offers many products and capabilities that may have broader implications for other data analytics companies, it is likely possible for all of these solutions and tools to coexist.
+
+“Not surprisingly, given the broad set of products and capabilities within Microsoft Fabric, we expect competitive implications for the broader data analytics ecosystem, including both Snowflake and Databricks. That said, given the accelerating pace that enterprises are moving to modernize their respective data estates in order to effectively leverage rapidly evolving genAI tools we believe the solutions can co-exist for years to come.”
+
+Microsoft Corporation (NASDAQ:MSFT) provides AI-powered cloud, productivity, and business solutions, focusing on efficiency, security, and AI advancements.
+
+While we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on thebest short-term AI stock.
+
+READ NEXT:10 Must-Watch AI Stocks on Wall Streetand10 AI Stocks Gaining Attention on Wall Street.
+
+Disclosure: None.

@@ -1,0 +1,20 @@
+[
+    {
+        "ticker": "MSFT",
+        "quantity": 2,
+        "price": 525.39,
+        "timestamp": "2025-08-06T22:13:11.965544"
+    },
+    {
+        "ticker": "MSFT",
+        "quantity": 1,
+        "price": 525.8,
+        "timestamp": "2025-08-06T22:25:51.281556"
+    },
+    {
+        "ticker": "MSFT",
+        "quantity": 1,
+        "price": 525.6,
+        "timestamp": "2025-08-06T22:30:27.685042"
+    }
+]

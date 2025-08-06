@@ -1,0 +1,83 @@
+Stocks tumbled from record highs on Friday as data revealed the US labor market is not on as solid footing as previously thought.
+
+On the week, the S&P 500 (^GSPC) fell nearly 2.4%, while the Nasdaq Composite (^IXIC) slid 2.2% and the Dow Jones Industrial Average (^DJI) shed 1.2%.
+
+Markets will be greeted with a quieter week of economic news with no major releases anticipated.
+
+Meanwhile, another busy week of corporate releases is set to greet investors with 122 S&P 500 companies set to report, led by Palantir (PLTR), Eli Lilly (LLY), and Disney (DIS).
+
+A September shift
+
+Markets exited Wednesday's Federal Reserve press conference leaning toward no interest rate cuts in the near future. That narrative flipped on its head on Friday morning.
+
+Thelatest monthly jobs reportshowed the US labor market added fewer jobs than expected in July while the unemployment rate moved higher, and revisions to prior months' numbers revealed significantly fewer jobs had been added than initially thought.
+
+In its release,the Bureau of Labor Statistics (BLS) said downward revisions to the May and June jobs reports "were larger than normal," with those changes showing more than a quarter million fewer jobs were added to the economy over those months. May's job gains were revised down to 19,000 from 144,000, while June's additions were cut to just 14,000 from the 147,000 initially reported.
+
+Read more:How jobs, inflation, and the Fed are all related
+
+TheWhite House economic adviserson Sunday defended President Trump’s decision to fire the BLS chief, rejecting concerns that the move could erode trust in official US economic figures.
+
+Market pricing and economists argue Friday's report was likelya game changerfor the overall economic narrative and how the Fed will move forward. Following Friday's jobs report, the probability of a September interest rate cut from the Fed surged to 83%, up from just 38% the day prior,per the CME FedWatch Tool.
+
+"Our base case since January has been that the Fed won't cut rates this year," Bank of America Securities US economist Shruti Mishra wrote in a note to clients. "However, we have been arguing that the most likely alternate scenario is that labor market deterioration will force the Fed into 'bad cuts', which could play out at a pace of at least 25bp per meeting. The massive downward revision to payrolls in the July jobs report increases the probability of this scenario."
+
+AI leadership
+
+The July jobs report showed the US economy may be slowing more than initially thought, sparking aFriday market sell-off.
+
+"Ultimately, stocks do better in a stronger economy than one that requires the intervention from the Fed," Interactive Brokers chief strategist Steve Sosnick told Yahoo Finance.
+
+The economic growth concerns clouded what had been a positive week for the market, as Big Tech earningsrevealed AI investment is not stopping anytime soon. In a note to clients on Friday, Capital Economics senior market economist James Reilly wrote that Friday's market sell-off is likely "overdone," as AI will remain the "key driver" of global equities.
+
+"These major US ‘hyperscalers’ are collectively continuing to invest heavily," Reilly wrote while pointing out Big Tech has recently outperformed the broader market following earnings reports. "That’s one reason why we are positive on the outlook for the tech-heavy segments of the stock market, and on the outlook for US stocks as a whole."
+
+Read more:Live coverage of corporate earnings
+
+Earnings volatility
+
+After about two-thirds of the S&P 500 have reported earnings, the index is pacing for earnings growth of 10.3%, up from the 5% expected on June 27, per FactSet data.
+
+Largely, the market has floated higher amid the slew of earnings releases. But under the surface, there have been significant stock moves off individual reports. In just the past week, Meta (META) stock rose more than 12%after topping estimates for both revenue and earnings per share. Meanwhile, Novo Nordisk (NVO) stocktanked 20%after cutting its full-year sales outlook. Julian Emanuel, who leads the equity, derivatives, and quantitative strategy team at Evercore ISI, noted that stocks are moving more than average in the day following releases, regardless of whether or not they beat or miss Wall Street's expectations.
+
+For example, the average S&P 500 stock that misses estimates for both sales and earnings per share is seeing a 4.9% decline on the next trading day, a steeper decline than the average of 3.2% seen over the past five years.
+
+With the market trading near record highs, Emanuel noted investors are "agitated by anything short of perfect" this corporate earnings season.
+
+Weekly Calendar
+
+Monday
+
+Economic data:Factory orders, June (-5% expected, +8.2% prior); Durable goods orders, June final (-9.3% expected, -9.3% prior)
+
+Earnings:Hims & Hers (HIMS), Palantir (PLTR), Tyson (TSN), Wayfair (W)
+
+Tuesday
+
+Economic data:S&P Global US Services PMI, July final (55.2 prior), S&P Global US Composite, July final (54.6 prior); ISM services index, July (51.5 expected, 50.8 prior)
+
+Earnings:AMD (AMD), BP (BP), Caterpillar (CAT), Duke Energy (DUK), Lucid Group (LCID), Opendoor (OPEN), Pfizer (PFE), Rivian (RIVN), Super Micro Computer (SMCI), Snap (SNAP), Upstart (UPST)
+
+Wednesday
+
+Economic data:MBA mortgage applications, week ending Aug. 1 (-3.8% prior)
+
+Earnings:AppLovin (APP), e.l.f. Beauty (ELF), Disney (DIS), DraftKings (DKNG), McDonald's (MCD), Novo Nordisk (NVO), Shopify (SHOP), Six Flags (FUN), Uber (UBER)
+
+Thursday
+
+Economic data:Initial jobless claims, week ending Aug. 2 (218,000 prior); Nonfarm productivity, second quarter preliminary (+2.5% expected, -1.5% prior); Unit labor costs, second quarter preliminary (+1.3% expected, +6.6% prior)
+
+Earnings:Block (XYZ), Celsius (CELH), ConocoPhillips (COP), Eli Lilly (LLY), Sony (SONY), SoundHound (SOUN), Pinterest (PINS), Take-Two Interactive (TTWO), Twilio (TWLO), The Trade Desk (TTD), Vistra Energy (VST)
+
+Friday
+
+Economic calendar:No notable releases.
+
+Earnings:Canopy Growth (CGC), fuboTV (FUBO), Wendy's (WEN)
+
+Josh Schafer is a reporter for Yahoo Finance. Follow him on X@_joshschafer.
+
+Click here for the latest economic news and indicators to help inform your investing decisions
+
+Read the latest financial and business news from Yahoo Finance
