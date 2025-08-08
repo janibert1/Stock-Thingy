@@ -199,7 +199,55 @@ def index():
         for (const point of history) { const diff = Math.abs(targetTime.diff(point.x)); if (diff < minDiff) { minDiff = diff; closest = point; } }
         return closest;
     }
+        // --- Place this corrected function in the main page's <script> block ---
 
+    // NEW: Add a variable to track the time of the last 1-hour chart update
+    let lastHourChartUpdate = 0;
+
+    socket.on('update', function(data) {
+        const now = moment();
+        const newDataPoint = { x: now, y: data.value };
+
+        // Always update the main value display (every 10 seconds)
+        document.getElementById('value').innerText = 'Total Portfolio Value: $' + data.value.toFixed(2);
+
+        // Always keep the 'Live' tab data array updated in the background
+        liveData.push(newDataPoint);
+        if (liveData.length > 20) {
+            liveData.shift();
+        }
+
+        // Always update the 'Live' tab if it's the one selected
+        if (currentRange === 'live') {
+            chart.data.datasets[0].data = liveData;
+            chart.update();
+        }
+        // If the user is on the '1 Hour' tab, check if it's time to update
+        else if (currentRange === '1h') {
+            // --- CORRECTED LOGIC ---
+            // Check if 60 seconds have passed since the last update for this chart
+            const now_ms = Date.now();
+            if (now_ms - lastHourChartUpdate > 60000) { // 60,000 milliseconds = 60 seconds
+                const chartData = chart.data.datasets[0].data;
+                
+                // Add the new data point to the end of the chart.
+                chartData.push(newDataPoint);
+
+                // Remove any data points older than one hour.
+                const oneHourAgo = moment().subtract(1, 'hours');
+                while (chartData.length > 0 && chartData[0].x.isBefore(oneHourAgo)) {
+                    chartData.shift();
+                }
+
+                // Update the chart and reset the timer.
+                chart.update();
+                lastHourChartUpdate = now_ms;
+            }
+        }
+
+        // Always update the portfolio table prices (every 10 seconds)
+        updatePortfolioPrices();
+    });
     function setRange(range) {
         currentRange = range; document.querySelectorAll('.time-buttons button').forEach(btn => btn.classList.remove('active')); document.getElementById(range + 'Btn').classList.add('active');
         let chartData = []; const now = moment();
@@ -319,12 +367,12 @@ def combined_updates():
             socketio.emit('update', {'value': value})
             last_10s = now
 
-        # 60-second task 
-        if now - last_60s >= 60:
-            record_portfolio_worth()
-            last_60s = now
+
 
         time.sleep(1) 
-
+def sixty_second_updater():
+    while True:
+        record_portfolio_worth()
+        time.sleep(60)
 threading.Thread(target=combined_updates, daemon=True).start()
-   
+socketio.start_background_task(target=sixty_second_updater)
